@@ -1,4 +1,3 @@
-Here’s a complete `README.md` file for your project that implements **Google OAuth2 login using `django-allauth`**, with **JWT authentication**, and a **React (Vite)** frontend. This documentation is beginner-friendly, well-structured, and production-ready.
 
 ---
 
@@ -241,6 +240,3 @@ npm run dev
 
 MIT License. Use freely for commercial or academic use.
 
----
-
-Would you like this `README.md` saved as a downloadable file?
